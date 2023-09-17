@@ -9,5 +9,5 @@ Android App: Number Guessing Game โดยใช้ภาษา Kotlin แล�
 https://youtube.com/shorts/uguONhozCDQ?feature=share
 
 member:
-6410742065 Pattapon Aphichatchotikun
+6410742065 Pattapon Aphichatchotikun \n
 6410742297 Kullaphat Kajhan
