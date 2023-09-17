@@ -6,13 +6,9 @@ Android App: Number Guessing Game โดยใช้ภาษา Kotlin แล�
   3.ระบบจะหยุดเมื่อทายถูกและแสดงจํานวนครั้งที่ผูัเล่นทายก่อนทายถูก
   4.สามารถเล่นเกมใหม่ได้
   
-<object width="425" height="350">
-  <param name="movie" value="https://youtube.com/shorts/uguONhozCDQ?feature=share" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://youtube.com/shorts/uguONhozCDQ?feature=share"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+
 
 https://youtube.com/shorts/uguONhozCDQ?feature=share
 
