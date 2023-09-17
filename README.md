@@ -7,9 +7,9 @@ Android App: Number Guessing Game โดยใช้ภาษา Kotlin แล�
   4.สามารถเล่นเกมใหม่ได้
   
 <object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="movie" value="https://youtube.com/shorts/uguONhozCDQ?feature=share" />
   <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+  <embed src="https://youtube.com/shorts/uguONhozCDQ?feature=share"
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
