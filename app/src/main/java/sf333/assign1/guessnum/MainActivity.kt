@@ -16,6 +16,11 @@ import kotlin.random.Random
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        gameLogic()
+    }
+
+
+    fun gameLogic(){
         setContent {
             var randomNumber by remember { mutableStateOf(Random.nextInt(0, 101)) }
             var num by remember { mutableStateOf("") }
